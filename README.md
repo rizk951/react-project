@@ -16,7 +16,7 @@
 
 
 ### 💡 Contributors
-    - Ziyad Tarek Saeed - Author and Maintainer.
+    - rizkzaher - Author and Maintainer.
 
 Happy coding! 🚀
 # react-project
